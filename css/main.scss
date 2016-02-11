@@ -168,8 +168,8 @@ header {
 	section.row {
 
 		@include outer-container;
-		padding-top: 2em;
-		padding-bottom: 2em;
+		padding-top: 1em;
+		padding-bottom: 1em;
 
 		h2 {
 			text-transform: uppercase;
@@ -188,7 +188,7 @@ header {
 			@include span-columns(6);
 			border-top: $section-border;
 			padding-top: 1em;
-			padding-bottom: 3em;
+			padding-bottom: 1em;
 			
 			@include media($mobile) {
 				@include span-columns(4);
