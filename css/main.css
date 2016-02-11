@@ -626,9 +626,11 @@ header {
         width: 49%;
         width: calc(50% - 7px); }
       #content .photo-grid .col-3 {
+        padding-bottom: 1.5em;
         width: 100%; } }
     @media screen and (max-width: 780px) {
       #content .photo-grid .col-3 {
+        padding-bottom: 1.5em;
         width: 100%; } }
 
 .loaded header {
