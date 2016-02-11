@@ -672,10 +672,10 @@ type=radio]{-webkit-appearance:radio;
   border-color:#333;
 }
 #mc_embed_signup .button {
-  clear:both; background-color: #aaa; border: 0 none; border-radius:4px; color: #FFFFFF; cursor: pointer; display: inline-block; font-size:15px; font-weight: bold; height: 36px; line-height: 36px; margin: 0 5px 10px 0; padding:0; text-align: center; text-decoration: none; vertical-align: top; white-space: nowrap; width: auto;
+  clear:both; background-color: #e85151; border: 0 none; border-radius:4px; color: #FFFFFF; cursor: pointer; display: inline-block; font-size:15px; font-weight: bold; height: 36px; line-height: 36px; margin: 0 5px 10px 0; padding:0; text-align: center; text-decoration: none; vertical-align: top; white-space: nowrap; width: auto;
 }
 #mc_embed_signup .button:hover {
-  background-color:#777;
+  background-color:#A61414;
 }
 #mc_embed_signup .small-meta {
   font-size: 11px;
