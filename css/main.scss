@@ -215,15 +215,15 @@ header {
 			text-decoration: none;
 		}
 
-		a.col-1 {
+		.col-1 {
 			width: 100%;
 		}
 
-		a.col-2 {
+		.col-2 {
 			width: 49%; width: calc(50% - 12px);
 		}
 
-		a.col-3 {
+		.col-3 {
 			width: 32%; width: calc(33.33333% - 16px);
 		}
 
@@ -234,17 +234,17 @@ header {
 			}
 
 
-			a.col-2 {
+			.col-2 {
 				width: 49%; width: calc(50% - 7px);
 			}
 			
-			a.col-3 {
+			.col-3 {
 				width: 100%;
 			}
 		}
 		@include media($tablet) { 
 			
-			a.col-3 {
+			.col-3 {
 				width: 100%;
 			}
 		}
