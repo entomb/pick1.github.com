@@ -242,6 +242,12 @@ header {
 				width: 100%;
 			}
 		}
+		@include media($tablet) { 
+			
+			a.col-3 {
+				width: 100%;
+			}
+		}
 	}
 }
 

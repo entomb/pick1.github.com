@@ -627,6 +627,9 @@ header {
         width: calc(50% - 7px); }
       #content .photo-grid a.col-3 {
         width: 100%; } }
+    @media screen and (max-width: 780px) {
+      #content .photo-grid a.col-3 {
+        width: 100%; } }
 
 .loaded header {
   -webkit-transform: none;
