@@ -236,6 +236,10 @@ header {
 			a.col-2 {
 				width: 49%; width: calc(50% - 7px);
 			}
+			
+			a.col-3 {
+				width: 100%;
+			}
 		}
 	}
 }
